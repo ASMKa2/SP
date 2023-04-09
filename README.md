@@ -14,5 +14,5 @@ The projects are about SIC/XE machine, implementing shell, assembler, linker, lo
 
 # Project 3
 * Linker & Loader
-  * Debugger
-  * Running the program
+* Debugger
+* Running the program
