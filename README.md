@@ -9,8 +9,8 @@ The projects are about SIC/XE machine, implementing shell, assembler, linker, lo
 
 # Project 2
 * Assembler
-# Symbol Table Generation
-# Object File Generation
+** Symbol Table Generation
+** Object File Generation
 
 # Project 3
 * Linker & Loader
