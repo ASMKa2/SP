@@ -1,0 +1,15 @@
+How to compile: 
+				
+				type "make"
+				it will make object files for each C file, 
+				and an execute file named "20181592"
+
+
+How to execute: 
+				
+				type "./20181592"
+
+
+How to remove object files and execute file:
+				
+				type "make clean"
